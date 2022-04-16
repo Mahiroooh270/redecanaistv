@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | REDECANAIS TV",ANIMAL PLANET HD (REDECANAIS TV)
+
+https://m3u9.tk/a/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIyIDk6Mzk6MzYgUE0maGFzaF92YWx1ZT00WkxSNm1WSTBKTWtSZjFMTGo0YU1BPT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Nick_logo_2005.png" group-title="CANAIS | REDECANAIS TV",NICKELODEON (REDECANAIS TV)
+
+https://m3u9.ml/a2/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=IsTHqjaZFn9ihnsSa0YUAA&3U1G7qaTxrPbalZnEx=1650100078
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title="CANAIS | REDECANAIS TV",MEGAPIX (REDECANAIS TV)
+
+https://m3u9.ml/a2/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=oA6-0FLs7_RIpaeCTBYoqg&3U1G7qaTxrPbalZnEx=1650099071
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | REDECANAIS TV",TV RÁ TIM BUM (REDECANAIS TV)
+
+https://m3u9.ml/a2/hls1/tvratimbum.m3u8?mu3zAQc9HC3GbwJq=OHXyeVXUTPPBrXoyINWu-A&3U1G7qaTxrPbalZnEx=1650092260
